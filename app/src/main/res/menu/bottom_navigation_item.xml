@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item_bnv_now_playing"
+        android:title="@string/now_playing"
+        android:icon="@drawable/ic_movie_now_playing_24dp"/>
+    <item
+        android:id="@+id/item_bnv_upcoming"
+        android:title="@string/up_coming"
+        android:icon="@drawable/ic_movie_upcoming_black_24dp"/>
+    <item
+        android:id="@+id/item_bnv_popular"
+        android:title="@string/popular"
+        android:icon="@drawable/ic_movie_popular_black_24dp"/>
+    <item
+        android:id="@+id/item_bnv_favorite"
+        android:title="@string/favorite"
+        android:icon="@drawable/ic_star_unfavorite_black_24dp"/>
+</menu>

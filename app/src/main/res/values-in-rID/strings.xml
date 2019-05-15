@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title" translatable="false">Judul</string>
+    <string name="lang">Bahasa</string>
+    <string name="popular">Populer</string>
+    <string name="up_coming">Akan Datang</string>
+    <string name="now_playing">Main Sekarang</string>
+    <string name="favorite">Disukai</string>
+    <string name="genre">Jenis</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="rating">Tingkat Kesukaan</string>
+    <string name="language">Bahasa</string>
+    <string name="lorem">Lorem</string>
+    <string name="description">Deskiripsi</string>
+    <string name="detail_film">Detail Film</string>
+    <string name="language_setting">Pengaturan Bahasa</string>
+    <string name="back_button">Kembali</string>
+    <string name="hello_blank_fragment">Hai Fragment Koson</string>
+    <string name="unfavorited">Dihapus dari Daftar Disukai</string>
+    <string name="favorited">Masuk ke Daftar Disukai</string>
+    <string name="search">cari</string>
+</resources>
